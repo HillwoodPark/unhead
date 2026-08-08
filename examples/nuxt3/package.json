@@ -9,6 +9,6 @@
     "nuxt:prepare": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.10.3"
+    "nuxt": "3.21.10"
   }
 }
